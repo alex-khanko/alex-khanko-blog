@@ -1,4 +1,3 @@
 # alex-khanko-blog
 
-test trigger
-again 
+# FINAL TEST
